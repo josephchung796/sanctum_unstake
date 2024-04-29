@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/home/joseph/Documents/sanctum-unstake-program/target/sbf-solana-solana/release/build/typenum-ac3cc3dcdc7a23ab/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=/home/joseph/Documents/sanctum-unstake-program/target/sbf-solana-solana/release/build/typenum-ac3cc3dcdc7a23ab/out/op.rs
