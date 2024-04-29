@@ -1,2 +1,0 @@
-cargo:rustc-env=TYPENUM_BUILD_CONSTS=/home/joseph/Documents/sanctum-unstake-program/target/release/build/typenum-a85cac596e310a8c/out/consts.rs
-cargo:rustc-env=TYPENUM_BUILD_OP=/home/joseph/Documents/sanctum-unstake-program/target/release/build/typenum-a85cac596e310a8c/out/op.rs
