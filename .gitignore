@@ -1,5 +1,6 @@
 .anchor
 .DS_Store
+release
 **/*.rs.bk
 node_modules
 
